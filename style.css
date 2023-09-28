@@ -106,3 +106,7 @@ p3{
 .menu:hover{
     transform: translate(-10px);
 }
+.navbar{
+    float: right;
+    height: 100%
+}
