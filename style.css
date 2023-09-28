@@ -110,3 +110,13 @@ p3{
     float: right;
     height: 100%
 }
+.navbar a{
+    float:left;
+    height: 100%;
+    display: table;
+    margin: 0 auto;
+    vertical-align: middle;
+    font-size: 13px;
+    font-family: monospace;
+    color: rgb(255, 249, 204);
+}
