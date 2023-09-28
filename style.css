@@ -95,13 +95,11 @@ p3{
     color: rgb(255, 249, 204);
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 15px;
-    margin-top: 400px;
-    margin-left: 50px
 }
 p4{
     color: rgb(255, 249, 204);
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 15px;
-    margin-top: 400px;
-    margin-right: 50px
+    margin-top: 1000px;
+    margin: 0 auto;
 }
