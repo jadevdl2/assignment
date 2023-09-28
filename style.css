@@ -78,6 +78,7 @@ p2{
     background-size: cover;
     text-align: end;
     align-items: flex-end;
+    transition: transform 0.5s;
 }
 .menu1{
     background-image: url(images/hamilton.jpeg);
@@ -102,10 +103,6 @@ p3{
     font-family: monospace;
     font-size: 15px;
 }
-p4{
-    color: rgb(255, 249, 204);
-    font-family: monospace;
-    font-size: 15px;
-    margin-top: 1000px;
-    margin: 0 auto;
+.menu:hover{
+    transform: translate(-10px);
 }
