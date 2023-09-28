@@ -13,13 +13,6 @@ body{
     display: block;
     background-color: rgba(71, 46, 46, 0.946);
 }
-.innerheader{
-    width: 1000px;
-    height: 100%;
-    display:block;
-    margin:0 auto;
-    background-color: rgba(71, 46, 46, 0.946);
-}
 .logo{
     height: 100%;
     display: table;
