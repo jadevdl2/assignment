@@ -82,12 +82,12 @@ p2{
 .menu1{
     background-image: url(images/hamilton.jpeg);
     float: left;
-    padding-left: 10px;
-    padding-top: 90px;
+    margin-left: 50px;
+    margin-top: 50px;
 }
 .menu2{
     background-image: url(images/tlk.jpeg);
     float: right;
-    padding-right: 10px;
-    padding-top: 150px;
+    margin-top: 50px;
+    margin-right: 50px;
 }
