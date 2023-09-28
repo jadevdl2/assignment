@@ -118,7 +118,7 @@ p3{
     vertical-align: middle;
     font-size: 13px;
     font-family: monospace;
-    color: rgb(255, 249, 204);
+    color: rgb(255, 249, 204);;
 }
 .navbar a li{
     display: table-cell;
