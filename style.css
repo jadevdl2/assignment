@@ -1,0 +1,19 @@
+{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-image: url('baw2.jpeg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h1{
+    font-size: 50px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+    letter-spacing: 2px;
+    font-size: 50px;
+    -webkit-text-fill-color: rgb(218, 2, 2);
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: rgb(255, 252, 198);
+}
