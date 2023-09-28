@@ -81,7 +81,9 @@ p2{
 }
 .menu1{
     background-image: url(images/hamilton.jpeg);
+    float: left;
 }
 .menu2{
     background-image: url(images/tlk.jpeg);
+    float: right;
 }
